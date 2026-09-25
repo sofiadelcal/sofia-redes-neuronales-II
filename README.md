@@ -12,7 +12,7 @@ El notebook presenta, de manera progresiva, los siguientes ejercicios:
 
 ## Ejecución
 
-Abre el archivo `Sofía_Redes_Neuronales_II_Colab_Explicado.ipynb` en Google Colab y ejecuta las celdas en orden.
+Abre el archivo `Sofía_Redes_Neuronales_II_Colab.ipynb` en Google Colab y ejecuta las celdas en orden.
 
 ## Autora
 
